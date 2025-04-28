@@ -74,13 +74,6 @@ Two primary classification tasks are performed:
 
 ## Setup and Execution
 
-### Prerequisites
-- Python (recommended version: Python 3.x)
-- Required libraries can be installed using:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
 ### Running the Project
 1. Clone the repository:
    ```bash
